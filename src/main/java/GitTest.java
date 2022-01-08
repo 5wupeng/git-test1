@@ -1,0 +1,11 @@
+/**
+ * @author xiaopeng
+ * @create 2022-01-08-9:36
+ */
+public class GitTest {
+    public static void main(String[] args) {
+
+        System.out.println("Hello git!");
+
+    }
+}
